@@ -118,7 +118,7 @@
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               <av:Point x:Key="ShapeLocation">440,230</av:Point>
               <av:Size x:Key="ShapeSize">60,60</av:Size>
-              <av:PointCollection x:Key="TrueConnector">500,260 530,260 530,360 595,360</av:PointCollection>
+              <av:PointCollection x:Key="TrueConnector">500,260 530,260 530,350 585,350</av:PointCollection>
               <av:PointCollection x:Key="FalseConnector">440,260 410,260 410,350 345,350</av:PointCollection>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
@@ -126,7 +126,7 @@
             <FlowStep x:Name="__ReferenceID1">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                  <av:Point x:Key="ShapeLocation">595,325</av:Point>
+                  <av:Point x:Key="ShapeLocation">585,315</av:Point>
                   <av:Size x:Key="ShapeSize">110,70</av:Size>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
